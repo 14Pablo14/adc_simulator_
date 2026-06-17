@@ -4,8 +4,10 @@ import pandas as pd
 import plotly.graph_objects as go
 
 
+
 st.set_page_config(
     page_title="Simulador ADC",
+    page_icon="logo_utn.png",
     layout="wide"
 )
 
