@@ -74,6 +74,12 @@ donde:
 
 Error producido al aproximar una muestra al nivel digital más cercano.
 
+## Demo online
+
+La aplicación está disponible en el siguiente enlace:
+
+https://adc-comunicacion-datos.streamlit.app/
+
 ## Instalación
 
 ### 1. Clonar el repositorio
