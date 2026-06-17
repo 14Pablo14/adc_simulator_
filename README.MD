@@ -4,10 +4,10 @@ Aplicación web desarrollada en Python y Streamlit para simular el proceso de Co
 
 ## Integrantes
 
-- Nombre Apellido
-- Nombre Apellido
-- Nombre Apellido
-- Nombre Apellido
+- Rey Lautaro
+- Quiroz Mallon Juan Pablo
+- Selinger Juanita
+- Beneforti Franco
 
 ## Tecnologías utilizadas
 
