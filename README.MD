@@ -79,7 +79,7 @@ Error producido al aproximar una muestra al nivel digital más cercano.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/14Pablo14/adc_simulator_
 cd adc-simulador
 ```
 
