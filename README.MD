@@ -124,14 +124,19 @@ streamlit run app.py
 ## Estructura del proyecto
 
 ```text
-adc-simulador/
-│
+adc-simulator/
 ├── app.py
-├── requirements.txt
-├── README.md
-├── logo_utn.png
-├── .gitignore
-└── venv/
+├── assets/
+│   └── logo_utn.png
+├── logic/
+│   ├── adc.py
+│   └── signals.py
+├── styles/
+│   └── styles.py
+└── ui/
+    ├── sidebar.py
+    ├── charts.py
+    └── components.py
 ```
 
 ## Despliegue
