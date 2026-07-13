@@ -6,7 +6,14 @@ def cargar_estilos():
     <style>
     /* Ocultar barra superior de Streamlit */
     header[data-testid="stHeader"] {
-        display: none;
+    background: transparent;
+    }
+
+    /* Asegurar que el botón para abrir la sidebar sea visible */
+    [data-testid="collapsedControl"],
+    [data-testid="stSidebarCollapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
     }
 
     /* Fondo general */
